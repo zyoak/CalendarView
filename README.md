@@ -20,7 +20,7 @@
               compile 'com.github.zyoak:CalendarView:v1.1'
     }
 ```
-## 2.事例代码
+## 2.示例代码
 ```
       CalendarView calendarView = (CalendarView) findViewById(R.id.calendarView);
       calendarView.setOnDateChangeAndPickedListener(new CalendarView.OnDateChangeAndPickedListener() {
